@@ -11,22 +11,22 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Jake',
   imageBackground: false,
   openInNewTab: true,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingMorning: 'Good Fucking Morning!',
+  greetingAfternoon: 'Good Fucking afternoon,',
+  greetingEvening: 'Good Fucking evening,',
+  greetingNight: 'Go to Fucking Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: 'a0f0b0c376337b03aaaa4409a1f6bf8b',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
-  weatherUnit: 'C',
-  weatherLatitude: '37.774929',
-  weatherLongitude: '-122.419418',
+  weatherUnit: 'F',
+  weatherLatitude: '39.992981',
+  weatherLongitude: '-83.001221',
   
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
